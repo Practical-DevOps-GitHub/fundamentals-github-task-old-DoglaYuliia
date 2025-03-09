@@ -1,5 +1,6 @@
 # Task on GitHub Topic
 
+
 1. Add user `softservedata` to this repository.
 
 2. Create branch `develop` as default branch.
@@ -29,4 +30,5 @@
 
 8. For github actions: 
 - create PAT (Personal Access Token) with **Full control of private repositories** and **Full control of orgs and teams, read and write org projects**
-- add to repository actions secrets key with the name `PAT` and the value of the created PAT 
+- add to repository actions secrets key with the name `PAT` and the value of the created PAT
+- 
